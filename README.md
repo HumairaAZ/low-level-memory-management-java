@@ -12,7 +12,7 @@ This project demonstrates low-level memory management in Java using the `sun.mis
 mvn clean install
 
 4. Run the application:
-java -jar target/low-level-memory-management-java-1.0-SNAPSHOT.jar
+     -jar target/low-level-memory-management-java-1.0-SNAPSHOT.jar
 
 
 ## Usage
